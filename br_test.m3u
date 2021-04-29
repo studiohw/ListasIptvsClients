@@ -211,17 +211,34 @@ https://cast.cdnseguro.com:19360/8094/8094.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Esportes",ESPN (720p)
-https://gma2.blab.email/fs2.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Esportes",ESPN 2 (720p)
-https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD" tvg-logo="http://imagembr.top/imagemservidor/canais/kisspng-espn-television-espn-extra-high-definition-video-lam-radio-hd-5b3af92fd342f2.2658225715305915358653.png" group-title="SPORT",ESPN SD
+http://wbotv.club:8080/luciano12/luciano12/4466
 
-#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPN News" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Esportes",ESPN News (720p)
-https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="http://imagembr.top/imagemservidor/canais/14-146250_espn2-logo-png-transparent-png.png" group-title="SPORT",ESPN 2 HD
+http://wbotv.club:8080/luciano12/luciano12/4273
 
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Esportes",ESPN U (720p)
-https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD²" tvg-logo="http://imagembr.top/imagemservidor/canais/14-146250_espn2-logo-png-transparent-png.png" group-title="SPORT ROTA 2",ESPN 2 HD²
+http://wbotv.club:8080/luciano12/luciano12/31943
+
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD" tvg-logo="http://imagembr.top/imagemservidor/canais/14-146250_espn2-logo-png-transparent-png.png" group-title="SPORT",ESPN 2 SD
+http://wbotv.club:8080/luciano12/luciano12/7890
+
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/1200px-Logo_espnbrasil.png" group-title="SPORT",ESPN BRASIL HD
+http://wbotv.club:8080/luciano12/luciano12/4274
+
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD²" tvg-logo="http://imagembr.top/imagemservidor/filmes4/1200px-Logo_espnbrasil.png" group-title="SPORT ROTA 2",ESPN Brasil HD²
+http://wbotv.club:8080/luciano12/luciano12/31944
+
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBOW3exxwRpYS2N8wUhqNKt7_QB_bue4m5jQp6Wt7Cze6-aHK&s" group-title="SPORT",ESPN BRASIL SD
+http://wbotv.club:8080/luciano12/luciano12/7891
+
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/espn-logo-4.png" group-title="SPORT",ESPN HD
+http://wbotv.club:8080/luciano12/luciano12/4275
+
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD²" tvg-logo="http://imagembr.top/imagemservidor/filmes4/espn-logo-4.png" group-title="SPORT ROTA 2",ESPN HD²
+http://wbotv.club:8080/luciano12/luciano12/31945
+
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-white.png" group-title="Variedades", CBTV Now
